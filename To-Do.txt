@@ -3,20 +3,25 @@ Login page
 	- login id 
 	-password 
 	-forgot password
-	-authority level
+	-OTP login
+	
 app
-	-SOS button
+	-SOS button(3 sec timmer and slide)
 	-geotag camera
 	-grid view of feed
 	-live alerts
 	-Hotspots
 	-chatbot
+	-Disaster shelter
+	-weather Based notification alert
+	-point based system for offical account 
 *OFFLINE 
 	-map download
 	-safety tips
 	-emergency contact info
-EXTRAS:- 
+EXTRAS:-
 	-WhatsApp chat
 	-weather based prediction priority
-	-past data based priority 
-	
+	-past data based priority & warning citizens early
+	-authority level (citizen ranking point system)
+
